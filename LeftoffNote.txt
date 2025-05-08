@@ -1,0 +1,1 @@
+ Was building out modular use of the ar verbs and teaching users about ar verbs. Do the same for the other verb endings.
